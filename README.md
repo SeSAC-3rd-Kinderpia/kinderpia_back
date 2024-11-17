@@ -1,10 +1,14 @@
 # :seedling: Kinderpia 
 ## 프로젝트 소개
 
+<img src="https://github.com/user-attachments/assets/2e8335b5-e8ac-4dd1-8b1e-694fb065656a"></img>
+
+
 * 주제 : 부모와 아이들이 함께할 공간을 소개하며, 모임을 만들어 함께 할 수 있는 웹 페이지
 * 기획 의도 : 단순한 서울시 공간 소개를 넘어 서로의 경험을 나누며 소통할 수 있는 네트워크 서비스를 제공하고자 한다.
 
-* 기간 : 2024.10.21 ~ 2024.11.08
+* 기간 : 2024.10.21 ~ 2024.11.08(3주)
+* 배포 주소 : http://ec2-3-38-150-41.ap-northeast-2.compute.amazonaws.com/
 * Test ID: test3859
 * Test Password: test1234
 
