@@ -103,6 +103,7 @@ Password: test1234
 #### Communication Tools
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
 <br>
 
 
@@ -118,7 +119,13 @@ Password: test1234
 
 <br>
 
-## 주요 테이블 설계
+## 📍 주요 테이블 설계
+
+<br>
+
+## 🧩 시스템 아키텍처
+
+<img src="https://github.com/user-attachments/assets/9298e6e9-9c3b-4f7e-aa16-00785c6ddfab">
 
 <br>
 
