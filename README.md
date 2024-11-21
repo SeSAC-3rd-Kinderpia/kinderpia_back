@@ -77,8 +77,8 @@ Password: test1234
 <!-- ## 🧰 Architecture -->
 ## ⚙️ 기술 스택
 #### Languages
-
-<img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white">
+<img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=openjdk&logoColor=white">
+<!-- <img src="https://img.shields.io/badge/Java-17-007396?style=for-the-badge&logo=java&logoColor=white"> -->
 
 #### Frameworks
 
@@ -103,6 +103,7 @@ Password: test1234
 #### Communication Tools
 
 <img src="https://img.shields.io/badge/slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/notion-000000?style=for-the-badge&logo=notion&logoColor=white">
+
 <br>
 
 
@@ -115,6 +116,16 @@ Password: test1234
 - **Multipart** : AWS 서버에 파일을 업로드하여 서버의 저장 공간 절약 및 파일 관리의 용이성과 파일 형식 및 크기 제한을 위해 채택
 - **AWS** : 현재 클라우드 시장에서 가장 큰 점유율을 차지하고 있으며, EC2, S3, RDS 등 다양한 서비스를 지원하고, 자원을 확대/축소 하는 등 유연성의 이점으로 인해 채택
 - **Jenkins** : 코드의 자동 빌드 및 배포 프로세스를 수행하여 버전관리의 용이 및 유지보수성 향상을 위함.
+
+<br>
+
+## 📍 주요 테이블 설계
+
+<br>
+
+## 🧩 시스템 아키텍처
+
+<img src="https://github.com/user-attachments/assets/9298e6e9-9c3b-4f7e-aa16-00785c6ddfab">
 
 <br>
 
