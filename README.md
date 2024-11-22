@@ -2,8 +2,8 @@
   <h1>🧒 킨더피아 🐇</h1>
 </div>
 
+<img src="https://github.com/user-attachments/assets/33ea9cdb-dc36-4684-bf3c-b78a116bc72c">
 
-![킨더피아](https://github.com/user-attachments/assets/33ea9cdb-dc36-4684-bf3c-b78a116bc72c)
 
 <div align="center">
   <strong>👨‍👩‍👧‍👦 부모와 아이들이 함께할 공간을 소개하며,<br> 🗨 모임을 만들어 함께 할 수 있는 웹 사이트</strong> <br>
@@ -11,7 +11,7 @@
 </div>
 <br>
 
-<div align="center">
+<!-- <div align="center">
 
 ![Java](https://img.shields.io/badge/Java-17-blue.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3.4-purple.svg)
@@ -24,7 +24,7 @@
 ![Jenkins](https://img.shields.io/badge/Jenkins-purple.svg)
 ![Spring Cloud AWS](https://img.shields.io/badge/Spring%20Cloud%20AWS-2.2.6-blue.svg)
 
-</div>
+</div> -->
 <br>
 
 ❣ 테스트 계정을 통해 로그인하거나, 로그인화면에서 [테스트 유저 계정으로 로그인] 버튼을 누르면
@@ -121,11 +121,18 @@ Password: test1234
 
 ## 📍 주요 테이블 설계
 
+<img src="https://github.com/user-attachments/assets/e2ce7739-d790-43d1-9fa8-4eda313269aa" width="900"> <br>
+- 사용자(User)와 모임(Meeting) 테이블 간 다대다(M:N) 관계 매핑 테이블 사용자 모임 매핑(UserMeeting) 테이블 생성
+
 <br>
+
 
 ## 🧩 시스템 아키텍처
 
-<img src="https://github.com/user-attachments/assets/9298e6e9-9c3b-4f7e-aa16-00785c6ddfab">
+<img src="https://github.com/user-attachments/assets/9298e6e9-9c3b-4f7e-aa16-00785c6ddfab" width="800">
+
+<br>
+## 주요 API 설계
 
 <br>
 
